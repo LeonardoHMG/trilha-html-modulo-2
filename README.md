@@ -45,8 +45,5 @@ O site representa uma clínica médica fictícia e contém as seguintes páginas
 
 ## 📂 Como Visualizar
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-```
+1. Clone o repositório
 2. Basta abrir o arquivo index.html no navegador
